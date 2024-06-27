@@ -1,0 +1,6 @@
+openai
+ffmpeg-python
+openai-whisper
+streamlit
+pytube
+youtube_transcript_api
